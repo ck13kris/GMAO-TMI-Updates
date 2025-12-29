@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/ck13kris/GMAO-TMI-Updates/releases/download/v1.0.0/GMAO-TMI.apk",
-  "changelog": "Première version officielle de l'application GMAO-TMI."
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/ck13kris/GMAO-TMI-Updates/releases/download/v1.1.0/app-debug.apk",
+  "journalDesModifications": "Ajout du support Firestore + correctifs divers."
 }
